@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/devl/glfw-3.3.5.bin.WIN64/include",
+                "C:/devl/glfw-3.3.5.bin.WIN64/lib-vc2022",
+                "C:/devl/VulkanSDK/Include",
+                "C:/devl/VulkanSDK/Lib",
+                "C:/devl/glm/"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/msys64/mingw64/bin/g++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
